@@ -1,14 +1,14 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        int c=0;
+        int u=0,d=0;
         for(auto i:moves){
-            if(i=='U')c+=1;
-            if(i=='D')c-=1;
-            if(i=='L')c-=1;
-            if(i=='R')c+=1;
+            if(i=='U')u+=1;
+            if(i=='D')u-=1;
+            if(i=='L')d-=1;
+            if(i=='R')d+=1;
         }
-        if(c==0)return true;
+        if(u==0 && d==0 )return true;
         return false;
     }
 };
