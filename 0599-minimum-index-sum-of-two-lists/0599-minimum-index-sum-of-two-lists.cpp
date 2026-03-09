@@ -1,23 +1,28 @@
 class Solution {
 public:
     vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
+        //Using hash map
+        unordered_map<string,int>mp;
+        vector<string>ans;
         int mi=INT_MAX;
-        vector<string>a;
-
         for(int i=0;i<list1.size();i++){
-            for(int j=0;j<list2.size();j++){
-                if(list1[i]==list2[j]){
-                    if(i+j<mi){
-                        mi=i+j;
-                        a.clear();
-                        a.push_back(list1[i]);
-                    }
-                    else if(i+j==mi){
-                        a.push_back(list1[i]);
-                    }
+            mp[list1[i]]=i;
+        }
+        for(int j=0;j<list2.size();j++){
+            if(mp.count(list2[j])){
+                int s=j+mp[list2[j]];
+                if(s<mi){
+                    ans.clear();
+                    ans.push_back(list2[j]);
+                    mi=s;
+                }
+                else if(s==mi){
+                    ans.push_back(list2[j]);
                 }
             }
+
         }
-        return a;
+        return ans;
+
     }
 };
