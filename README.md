@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
