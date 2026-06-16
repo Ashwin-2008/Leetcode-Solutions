@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [3903-smallest-stable-index-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
