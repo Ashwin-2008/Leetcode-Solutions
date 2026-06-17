@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
