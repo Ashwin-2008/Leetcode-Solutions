@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+| [3884-first-matching-character-from-both-ends](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
 ## Simulation
 |  |
 | ------- |
