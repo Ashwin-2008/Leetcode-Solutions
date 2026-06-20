@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
