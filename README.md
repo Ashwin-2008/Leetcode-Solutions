@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3516-find-closest-person](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
 |  |
