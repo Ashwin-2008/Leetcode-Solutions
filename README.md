@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 ## Tree
 |  |
 | ------- |
@@ -143,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+## Greedy
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
