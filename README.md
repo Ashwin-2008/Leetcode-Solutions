@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1046-last-stone-weight](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
