@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [3516-find-closest-person](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 ## Counting
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
