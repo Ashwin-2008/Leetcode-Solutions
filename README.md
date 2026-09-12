@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0072-edit-distance](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
