@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 ## Heap (Priority Queue)
