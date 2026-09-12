@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
+| [1143-longest-common-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3884-first-matching-character-from-both-ends) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [1143-longest-common-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
