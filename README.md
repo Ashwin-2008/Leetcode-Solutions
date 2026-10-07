@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1143-longest-common-subsequence](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Monotonic Stack
 |  |
 | ------- |
