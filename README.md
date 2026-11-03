@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3940-limit-occurrences-in-sorted-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
