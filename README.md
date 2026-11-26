@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3663-find-the-least-frequent-digit](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3663-find-the-least-frequent-digit) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3360-stone-removal-game](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3516-find-closest-person](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
