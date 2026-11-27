@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [0859-buddy-strings](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0859-buddy-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1189-maximum-number-of-balloons) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0455-assign-cookies](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/0575-distribute-candies) |
 | [1046-last-stone-weight](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1732-find-the-highest-altitude](https://github.com/Ashwin-2008/Leetcode-Solutions/tree/master/1732-find-the-highest-altitude) |
